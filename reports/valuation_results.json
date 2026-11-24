@@ -1,0 +1,18 @@
+{
+  "valuation_date": "2026-12-31 (forward value)",
+  "benchmark_price": 407.24,
+  "benchmark_verified": false,
+  "scenarios": {
+    "Base": 285.3908608254174,
+    "Bull": 436.02270882585384,
+    "Bear": 185.60786924516884
+  },
+  "reverse_uplift": 0.07939840409121379,
+  "reverse_revenue_cagr": 0.15805331189130722,
+  "sensitivity": {
+    "Base case": 285.3908608254174,
+    "Base, stock-based compensation added back": 363.8396238120168,
+    "Base, WACC 8.0% and terminal growth 4.0%": 380.29770363314805,
+    "Both changes": 486.0418322554893
+  }
+}

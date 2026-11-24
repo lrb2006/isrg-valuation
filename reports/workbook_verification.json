@@ -1,0 +1,9 @@
+{
+  "scenario_values": {
+    "Base": 285.3908608254173,
+    "Bear": 185.60786924516884,
+    "Bull": 436.02270882585384
+  },
+  "python_agreement": true,
+  "wacc_recalculation": true
+}
